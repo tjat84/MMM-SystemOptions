@@ -15,6 +15,6 @@ MMM-RemoteControl
 ```
 
 ## Screenshots
-![screenshot](https://github.com/tjat84/MMM-SystemOptions/blob/acdaec83f70b661e92c1537108e85b91c52b1e3c/main_snippet.png)
+![screenshot](https://github.com/tjat84/MMM-SystemOptions/blob/46ac3cebd4c8a11572bd07b22d2dd82867af6975/hamburger.png)
 
-![screenshot](https://github.com/tjat84/MMM-SystemOptions/blob/acdaec83f70b661e92c1537108e85b91c52b1e3c/main_snippet.png)
+![screenshot](https://github.com/tjat84/MMM-SystemOptions/blob/46ac3cebd4c8a11572bd07b22d2dd82867af6975/optionsmenu.png)
