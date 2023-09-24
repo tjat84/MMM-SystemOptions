@@ -1,7 +1,7 @@
 .menu-wrapper {
     position: absolute;
     top: 0;
-    right: 0; /* Align to the right edge */
+    right: 10px; /* Align to the right edge */
     width: 40px;
     height: 40px;
 }
